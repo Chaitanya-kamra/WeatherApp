@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <!-- Deep Blue -->
+    <color name="deep_blue">#1A237E</color>
+
+    <!-- Vibrant Green -->
+    <color name="vibrant_green">#00C853</color>
+
+    <!-- Golden Yellow -->
+    <color name="golden_yellow">#FFC107</color>
+
+    <!-- Neutral Gray -->
+    <color name="neutral_gray">#757575</color>
+
+    <!-- Light Teal -->
+    <color name="light_teal">#4DB6AC</color>
+
+    <!-- Coral Orange -->
+    <color name="coral_orange">#FF5722</color>
+
+
+    <color name="main_screen_content_background_color">#EFEFEF</color>
+    <color name="primary_text_color">#363A43</color>
+    <color name="secondary_text_color">#7A8089</color>
+    <color name="divider_background">#e0e0e0</color>
+</resources>
